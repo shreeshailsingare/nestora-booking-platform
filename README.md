@@ -64,7 +64,7 @@ interface on GitHub:
 
 ### Home and Listing Discovery
 
-![Nestora home page](docs/screenshots/image1.png)
+<img src="docs/screenshots/image1.png" alt="Nestora home page" width="600">
 
 ### Listing Details
 
