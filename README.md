@@ -68,11 +68,11 @@ interface on GitHub:
 
 ### Listing Details
 
-![Nestora listing details page](docs/screenshots/img2.png)
+<img src="docs/screenshots/img2.png" alt="Nestora listing page" width="600">
 
 ### Create Listing
 
-![Nestora create listing page](docs/screenshots/img3.png)
+<img src="docs/screenshots/img3.png" alt="Nestora create page" width="600">
 
 
 ## System Architecture
