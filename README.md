@@ -64,19 +64,16 @@ interface on GitHub:
 
 ### Home and Listing Discovery
 
-![Nestora home page](docs/screenshots/home.png)
+![Nestora home page](docs/screenshots/image1.png)
 
 ### Listing Details
 
-![Nestora listing details page](docs/screenshots/listing-details.png)
+![Nestora listing details page](docs/screenshots/img2.png)
 
 ### Create Listing
 
-![Nestora create listing page](docs/screenshots/create-listing.png)
+![Nestora create listing page](docs/screenshots/img3.png)
 
-### Mobile View
-
-![Nestora mobile view](docs/screenshots/mobile-view.png)
 
 ## System Architecture
 
